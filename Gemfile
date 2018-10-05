@@ -13,8 +13,10 @@ gem "github-pages", group: :jekyll_plugins
 
 # To upgrade, run `bundle update`.
 
-#gem "jekyll", "~> 3.5"
-gem "minimal-mistakes-jekyll"
+# gem "jekyll", "~> 3.5"
+gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes"
+
+gem "jekyll-remote-theme"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
