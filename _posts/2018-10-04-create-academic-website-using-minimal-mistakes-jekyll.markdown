@@ -2,6 +2,7 @@
 layout: posts
 title:  "Create a personal academic website using Minimal Mistakes and Jekyll"
 date:   2018-10-04
+classes: wide
 ---
 
 ## Quick start and installation
@@ -28,7 +29,8 @@ plugins:
 ```
 I ran `bundle update` to clear up any dependency issues, `bundle install`, and `bundle exec jekyll serve` to spin-up my site locally.
 
-## Change `_config.yml` file
+## Customization
+### Change `_config.yml` file
 
 * Changed skin to `contrast`
 * Changed title
@@ -36,6 +38,11 @@ I ran `bundle update` to clear up any dependency issues, `bundle install`, and `
 * Changed description
 * Enabled search
 * Modified Site Author
+
+### Change `_data/navigation.yml` file
+
+* Added Curriculum Vitae, Publication, and Blog to masterhead
+
 -----
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

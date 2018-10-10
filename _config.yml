@@ -105,28 +105,21 @@ author:
   avatar           : "/assets/images/sunhwan_profile.jpg"
   bio              : "Research Staff Member at IBM Almaden Research"
   location         : "Menlo Park, CA"
-  email            :
-  linkedin         : "sunhwan-lee-bbb5b610"
+  email            : 
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-at"
       url: mailto:sunhwan.lee@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/sunhwan-lee-bbb5b610/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/sunhwan.lee.5"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sunhwan-lee"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-  
+    
 # Site Footer
 footer:
   links:
