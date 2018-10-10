@@ -119,6 +119,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sunhwan-lee"
+    - label: "Google Scholar"
+      #icon: 
+      #url: "https://scholar.google.com/citations?user=1Fui-IYAAAAJ&hl=en"
     
 # Site Footer
 footer:

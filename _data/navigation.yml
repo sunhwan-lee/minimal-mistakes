@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "Curriculum Vitae"
-    url: /
-  - title: "Publication"
-    url: /
+  - title: "Academic CV"
+    url: /cv/
   - title: "Blog"
     url: /
   # - title: "Sitemap"
